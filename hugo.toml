@@ -1,0 +1,21 @@
+baseURL = 'https://isp-group-locationsimulator.github.io/'
+languageCode = 'en-us'
+title = 'LocationSimulator'
+theme = "github.com/halogenica/beautifulhugo"
+
+[[module.imports]]
+  path = "github.com/halogenica/beautifulhugo"
+
+
+[[menu.main]]
+  name = "Privacy Policy"
+  url = "privacy"
+  weight = 1
+
+[Params]
+  selfHosted = true
+  since = 2022
+[Params.author]
+  name = "Joshua Wiedekopf and the LocationSimulator Team"
+  email = "locationsimulator@wiedekopf.net"
+  github = "isp-group-locationsimulator"
