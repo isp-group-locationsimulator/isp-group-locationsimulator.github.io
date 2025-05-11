@@ -28,7 +28,7 @@ Another group of students implemented more functionality that adds to the applic
 - Tom Boje
 - Brian Rickert
 
-They were supported by Juljan Bouchagiar and Larse Vosteen of the Institute of Software Engineering 
+They were supported by Juljan Bouchagiar and Lars Vosteen of the Institute of Software Engineering 
 and Programming Languages at the University of Lübeck, as well as 
 Jan Lukas Matyssek and Joshua Wiedekopf, who are volunteers in the 
 German Federal Agency for Technical Relief. 
