@@ -13,7 +13,7 @@ The app is licensed under the terms of the
 
 ## Privacy Policy
 
-The *LocationSimulator* app was built by a team of students at 
+The *LocationSimulator* app was originally built by a team of students at 
 the University of Lübeck (*The Team*):
 - Felix Winkler
 - Florian Vierkant
@@ -22,7 +22,13 @@ the University of Lübeck (*The Team*):
 - Sebastian Guhl
 - Steffen Marbach
 
-They were supported by Juljan Bouchagiar of the Institute of Software Engineering 
+Another group of students implemented more functionality that adds to the application:
+- Nihad Bedeiwi
+- Lars Fockenga
+- Tom Boje
+- Brian Rickert
+
+They were supported by Juljan Bouchagiar and Larse Vosteen of the Institute of Software Engineering 
 and Programming Languages at the University of Lübeck, as well as 
 Jan Lukas Matyssek and Joshua Wiedekopf, who are volunteers in the 
 German Federal Agency for Technical Relief. 
@@ -67,7 +73,15 @@ These Services do not address anyone under the age of 13. We do not knowingly co
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2023-12-28.
+This policy is effective as of 2025-05-11.
+
+#### Change history
+
+| Date | Change |
+| ---- | ------ |
+| 2023-12-28 | Initial version |
+| 2025-05-11 | Added new team |
+
 
 ### Contact Us
 
